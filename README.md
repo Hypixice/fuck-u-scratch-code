@@ -48,7 +48,7 @@ python sb3_analyzer.py path/to/your/project.sb3
 
 **示例：使用宽松模式，并显示前 50 个严重问题**
 ```bash
-python sb3_analyzer.py project.pmp --lenient --top 50
+python src.py project.sb3 --lenient --top 50
 ```
 
 ## 📊 屎山评级标准
